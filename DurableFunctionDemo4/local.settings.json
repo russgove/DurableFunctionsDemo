@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "AllowedOrigins": "https://{tenant}.sharepoint.com,http://some.other.domain",
+    "siteUrl": "https://{tenant}.sharepoint.com/sites/DurableFunctionDemo/",
+    "taskListId": "{tasklistid}",
+    "clientId": "{clientId}",
+    "clientSecret": "{clientSecret}",
+    "draftsLibrary": "Drafts",
+    "publishedLibrary": "Published"
+  }
+}
